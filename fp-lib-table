@@ -1,4 +1,5 @@
 (fp_lib_table
   (lib (name "TMCS1107A1BQDRQ1")(type "KiCad")(uri "${KIPRJMOD}/Custom/TMCS1107A1BQDRQ1")(options "")(descr ""))
   (lib (name "SW-Adafruit")(type "KiCad")(uri "${KIPRJMOD}/KiCAD-Libraries/SW-Adafruit.pretty")(options "")(descr ""))
+  (lib (name "MCP4642-502E_UN")(type "KiCad")(uri "${KIPRJMOD}/Custom/MCP4642-502E_UN")(options "")(descr ""))
 )
