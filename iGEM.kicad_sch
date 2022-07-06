@@ -1829,6 +1829,10 @@
     (uuid f7c70458-cd62-452b-a83a-1538b9398e45)
   )
 
+  (text "Address:\n1000001" (at 145.034 97.409 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 081ca5a4-c1ab-452f-9622-3948a221f186)
+  )
   (text "keep traces short\nto reduce ringing" (at 255.778 105.029 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 79c763a1-6484-4e59-9d5d-e548894b7ff5)
