@@ -3399,7 +3399,7 @@
     (property "Value" "Conn_01x03" (id 1) (at 229.235 59.3089 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Connector_JST:JST_XH_B3B-XH-AM_1x03_P2.50mm_Vertical" (id 2) (at 226.695 58.039 0)
+    (property "Footprint" "Connector_JST:JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical" (id 2) (at 226.695 58.039 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 226.695 58.039 0)
@@ -3641,7 +3641,7 @@
     (property "Value" "Fan" (id 1) (at 267.97 28.4479 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Connector_JST:JST_XH_B2B-XH-AM_1x02_P2.50mm_Vertical" (id 2) (at 263.398 26.924 0)
+    (property "Footprint" "Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical" (id 2) (at 263.398 26.924 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 263.398 26.924 0)
@@ -4539,10 +4539,10 @@
       (reference "J3") (unit 1) (value "Conn_01x02") (footprint "8PCV-02-006:8PCV02006")
     )
     (path "/c0df6d10-baa8-43f2-8eaf-37632beb3c98"
-      (reference "J4") (unit 1) (value "Conn_01x03") (footprint "Connector_JST:JST_XH_B3B-XH-AM_1x03_P2.50mm_Vertical")
+      (reference "J4") (unit 1) (value "Conn_01x03") (footprint "Connector_JST:JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical")
     )
     (path "/d65d8be2-cc90-4c64-af7a-fe7ceb3f9386"
-      (reference "M1") (unit 1) (value "Fan") (footprint "Connector_JST:JST_XH_B2B-XH-AM_1x02_P2.50mm_Vertical")
+      (reference "M1") (unit 1) (value "Fan") (footprint "Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical")
     )
     (path "/4b59aaf5-2612-4b64-b615-ddf78dad43ca"
       (reference "Q1") (unit 1) (value "TIP122") (footprint "Package_TO_SOT_THT:TO-220-3_Vertical")
