@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SN74LVC2G08IDCTRQ1
+D Automotive Catalog Dual 2-Input Positive-AND Gate
+K
+F http://www.ti.com/lit/ds/symlink/sn74lvc2g08-q1.pdf
+$ENDCMP
+#
+#End Doc Library

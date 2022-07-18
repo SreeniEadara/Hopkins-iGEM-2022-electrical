@@ -1,5 +1,8 @@
 (sym_lib_table
   (lib (name "TMCS1107A1BQDRQ1")(type "Legacy")(uri "${KIPRJMOD}/Custom/TMCS1107A1BQDRQ1/TMCS1107A1BQDRQ1.lib")(options "")(descr ""))
-  (lib (name "SW-Adafruit")(type "Legacy")(uri "${KIPRJMOD}/KiCAD-Libraries/SW-Adafruit.lib")(options "")(descr ""))
   (lib (name "MCP4642-502E_UN")(type "Legacy")(uri "${KIPRJMOD}/Custom/MCP4642-502E_UN/MCP4642-502E_UN.lib")(options "")(descr ""))
+  (lib (name "SN74LVC2G08IDCTRQ1")(type "Legacy")(uri "${KIPRJMOD}/Custom/SN74LVC2G08IDCTRQ1/SN74LVC2G08IDCTRQ1.lib")(options "")(descr ""))
+  (lib (name "SN74LVC1G04DCK3")(type "Legacy")(uri "${KIPRJMOD}/Custom/SN74LVC1G04DCK3/SN74LVC1G04DCK3.lib")(options "")(descr ""))
+  (lib (name "MD1211")(type "KiCad")(uri "${KIPRJMOD}/Custom/MD1211.kicad_sym")(options "")(descr ""))
+  (lib (name "MCP4561-502E_MS")(type "Legacy")(uri "${KIPRJMOD}/Custom/MCP4561-502E_MS/MCP4561-502E_MS.lib")(options "")(descr ""))
 )

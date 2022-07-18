@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SN74LVC1G04DCK3
+D Inverters Single Inverter 5-SC70 -40 to 125
+K
+F https://www.ti.com/lit/ds/symlink/sn74lvc1g04.pdf?HQS=TI-null-null-digikeymode-df-pf-null-wwe&ts=1605684525748
+$ENDCMP
+#
+#End Doc Library
