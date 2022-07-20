@@ -3,4 +3,5 @@
   (lib (name "MCP4642-502E_UN")(type "KiCad")(uri "${KIPRJMOD}/Custom/MCP4642-502E_UN")(options "")(descr ""))
   (lib (name "8PCV-02-006")(type "KiCad")(uri "${KIPRJMOD}/Custom/8PCV-02-006")(options "")(descr ""))
   (lib (name "LOGOS")(type "KiCad")(uri "${KIPRJMOD}/Custom/LOGOS")(options "")(descr ""))
+  (lib (name "581102B02500G")(type "KiCad")(uri "${KIPRJMOD}/Custom/581102B02500G")(options "")(descr ""))
 )
