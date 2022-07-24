@@ -1,0 +1,1474 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/Users/sreenieadara/Documents/iGEM/iGEM.kicad_sch</source>
+    <date>Sunday, July 24, 2022 at 05:25:16 PM</date>
+    <tool>Eeschema (6.0.6-1)-1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>iGEM.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>0.1 uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="DigiKey">399-C0805C104K8RAC7800CT-ND</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="DigiKey" value="399-C0805C104K8RAC7800CT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iGEM.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0fbdd8b7-d3db-4cb1-9102-673f223a760c</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>0.1 uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="DigiKey">399-C0805C104K8RAC7800CT-ND</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="DigiKey" value="399-C0805C104K8RAC7800CT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iGEM.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>684ed4bf-4214-43c8-888f-a3448b81d2ae</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>0.1 uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="DigiKey">399-C0805C104K8RAC7800CT-ND</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="DigiKey" value="399-C0805C104K8RAC7800CT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iGEM.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>568ca172-d28f-4b1e-bb8a-29d60312e868</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>0.1 uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="DigiKey">399-C0805C104K8RAC7800CT-ND</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="DigiKey" value="399-C0805C104K8RAC7800CT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iGEM.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e233e18c-bedb-4b27-be9b-c941bb289d8a</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>0.1 uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="DigiKey">399-C0805C104K8RAC7800CT-ND</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="DigiKey" value="399-C0805C104K8RAC7800CT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iGEM.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a83e50e9-659a-46a8-914f-01fbef24f2b0</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>0.1 uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="DigiKey">399-C0805C104K8RAC7800CT-ND</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="DigiKey" value="399-C0805C104K8RAC7800CT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iGEM.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>453bcf18-5072-46fc-af47-9a7ef72b7fbc</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>4.7 uF</value>
+      <footprint>Capacitor_Tantalum_SMD:CP_EIA-3528-21_Kemet-B_Pad1.50x2.35mm_HandSolder</footprint>
+      <fields>
+        <field name="DigiKey">399-3723-1-ND</field>
+      </fields>
+      <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
+      <property name="DigiKey" value="399-3723-1-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iGEM.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fcbff530-7d83-4464-8ef9-05ba25fcfdb3</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>0.1 uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="DigiKey">399-C0805C104K8RAC7800CT-ND</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="DigiKey" value="399-C0805C104K8RAC7800CT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iGEM.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ee41a757-f62e-424a-8f85-1d5fd5e63727</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>10000 uF</value>
+      <footprint>Capacitor_THT:CP_Radial_D22.0mm_P10.00mm_SnapIn</footprint>
+      <fields>
+        <field name="DigiKey">399-ELG109M025AQ4AA-ND</field>
+      </fields>
+      <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
+      <property name="DigiKey" value="399-ELG109M025AQ4AA-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iGEM.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b907315e-253a-4092-93b7-446f29b287f4</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>0.1 uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="DigiKey">399-C0805C104K8RAC7800CT-ND</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="DigiKey" value="399-C0805C104K8RAC7800CT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iGEM.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>67da7427-6471-487f-aa6c-651619f96308</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>1N4732A</value>
+      <footprint>Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal</footprint>
+      <datasheet>https://www.vishay.com/docs/85816/1n4728a.pdf</datasheet>
+      <fields>
+        <field name="DigiKey">1N4732AFSCT-ND</field>
+      </fields>
+      <libsource lib="Diode" part="1N47xxA" description="1300mW Silicon planar power Zener diodes, DO-41"/>
+      <property name="DigiKey" value="1N4732AFSCT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iGEM.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>23381059-d0fa-454c-9688-e29c0afac73f</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>SB2060</value>
+      <footprint>Diode_THT:D_DO-201AD_P12.70mm_Horizontal</footprint>
+      <fields>
+        <field name="DigiKey">1655-SB2060CT-ND</field>
+      </fields>
+      <libsource lib="Device" part="D_Schottky" description="Schottky diode"/>
+      <property name="DigiKey" value="1655-SB2060CT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iGEM.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e4307151-38d3-446b-a621-d0bbf908dada</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>SB2060</value>
+      <footprint>Diode_THT:D_DO-201AD_P12.70mm_Horizontal</footprint>
+      <fields>
+        <field name="DigiKey">1655-SB2060CT-ND</field>
+      </fields>
+      <libsource lib="Device" part="D_Schottky" description="Schottky diode"/>
+      <property name="DigiKey" value="1655-SB2060CT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iGEM.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4c4386bb-5a56-47df-8856-a50da8c44169</tstamps>
+    </comp>
+    <comp ref="D4">
+      <value>SB2060</value>
+      <footprint>Diode_THT:D_DO-201AD_P12.70mm_Horizontal</footprint>
+      <fields>
+        <field name="DigiKey">1655-SB2060CT-ND</field>
+      </fields>
+      <libsource lib="Device" part="D_Schottky" description="Schottky diode"/>
+      <property name="DigiKey" value="1655-SB2060CT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iGEM.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3757f2b0-de47-41f5-be20-93b0b6681f1b</tstamps>
+    </comp>
+    <comp ref="D5">
+      <value>SB2060</value>
+      <footprint>Diode_THT:D_DO-201AD_P12.70mm_Horizontal</footprint>
+      <fields>
+        <field name="DigiKey">1655-SB2060CT-ND</field>
+      </fields>
+      <libsource lib="Device" part="D_Schottky" description="Schottky diode"/>
+      <property name="DigiKey" value="1655-SB2060CT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iGEM.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d294a912-45e1-4039-8ffa-bf40fea19218</tstamps>
+    </comp>
+    <comp ref="D6">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="DigiKey">475-1410-1-ND</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="DigiKey" value="475-1410-1-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iGEM.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5327e8bf-ae82-4039-9cd4-8576c3288851</tstamps>
+    </comp>
+    <comp ref="D7">
+      <value>1N4732A</value>
+      <footprint>Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal</footprint>
+      <datasheet>https://www.vishay.com/docs/85816/1n4728a.pdf</datasheet>
+      <fields>
+        <field name="DigiKey">1N4732AFSCT-ND</field>
+      </fields>
+      <libsource lib="Diode" part="1N47xxA" description="1300mW Silicon planar power Zener diodes, DO-41"/>
+      <property name="DigiKey" value="1N4732AFSCT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iGEM.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5048fb22-594e-478f-b77c-cbae1f2accfe</tstamps>
+    </comp>
+    <comp ref="D8">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="DigiKey">475-1410-1-ND</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="DigiKey" value="475-1410-1-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iGEM.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3c9bed9f-0f0c-41a8-b6fd-766349565974</tstamps>
+    </comp>
+    <comp ref="F1">
+      <value>20A</value>
+      <footprint>Fuse:Fuseholder_Blade_Mini_Keystone_3568</footprint>
+      <fields>
+        <field name="DigiKey">36-3568-15-ND</field>
+      </fields>
+      <libsource lib="Device" part="Fuse" description="Fuse"/>
+      <property name="DigiKey" value="36-3568-15-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iGEM.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>eadcb800-30ab-4a2d-bc96-28b421a136a3</tstamps>
+    </comp>
+    <comp ref="HS1">
+      <value>Heatsink</value>
+      <footprint>Heatsink:Heatsink_Fischer_SK104-STC-STIC_35x13mm_2xDrill2.5mm</footprint>
+      <fields>
+        <field name="DigiKey">HS403-ND</field>
+      </fields>
+      <libsource lib="Mechanical" part="Heatsink_Pad" description="Heatsink with electrical connection, 1 pin"/>
+      <property name="DigiKey" value="HS403-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iGEM.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>51879485-f54c-4d64-8de1-5fd9b52a4051</tstamps>
+    </comp>
+    <comp ref="HS2">
+      <value>Heatsink</value>
+      <footprint>Heatsink:Heatsink_Fischer_SK104-STC-STIC_35x13mm_2xDrill2.5mm</footprint>
+      <fields>
+        <field name="DigiKey">HS403-ND</field>
+      </fields>
+      <libsource lib="Mechanical" part="Heatsink_Pad" description="Heatsink with electrical connection, 1 pin"/>
+      <property name="DigiKey" value="HS403-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iGEM.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fd1f3134-e94c-4ccc-9125-06d251fe0321</tstamps>
+    </comp>
+    <comp ref="IC1">
+      <value>TMCS1107A1BQDRQ1</value>
+      <footprint>Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</footprint>
+      <datasheet>https://www.ti.com/lit/ds/symlink/tmcs1107-q1.pdf?ts=1634009705469&amp;ref_url=https%253A%252F%252Fwww.ti.com%252Fsitesearch%252Fdocs%252Funiversalsearch.tsp%253FlangPref%253Den-US%2526searchTerm%253DTMCS1107A4UQDRQ1%2526nr%253D2</datasheet>
+      <fields>
+        <field name="Description">Board Mount Current Sensors AEC-Q100, +/-420-V isolated Hall-effect current sensor with internal reference 8-SOIC -40 to 125</field>
+        <field name="DigiKey">296-TMCS1107A1BQDRQ1CT-ND</field>
+        <field name="Height">1.75</field>
+        <field name="Manufacturer_Name">Texas Instruments</field>
+        <field name="Manufacturer_Part_Number">TMCS1107A1BQDRQ1</field>
+      </fields>
+      <libsource lib="TMCS1107A1BQDRQ1" part="TMCS1107A1BQDRQ1" description="Board Mount Current Sensors AEC-Q100, +/-420-V isolated Hall-effect current sensor with internal reference 8-SOIC -40 to 125"/>
+      <property name="Description" value="Board Mount Current Sensors AEC-Q100, +/-420-V isolated Hall-effect current sensor with internal reference 8-SOIC -40 to 125"/>
+      <property name="Height" value="1.75"/>
+      <property name="Manufacturer_Name" value="Texas Instruments"/>
+      <property name="Manufacturer_Part_Number" value="TMCS1107A1BQDRQ1"/>
+      <property name="Mouser Part Number" value=""/>
+      <property name="Mouser Price/Stock" value=""/>
+      <property name="Arrow Part Number" value=""/>
+      <property name="Arrow Price/Stock" value=""/>
+      <property name="DigiKey" value="296-TMCS1107A1BQDRQ1CT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iGEM.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e46d9648-bbc2-4e10-a2da-8923352095b0</tstamps>
+    </comp>
+    <comp ref="IC2">
+      <value>MCP4642-502E_UN</value>
+      <footprint>SOP50P490X110-10N</footprint>
+      <datasheet>http://ww1.microchip.com/downloads/en/DeviceDoc/22107B.pdf</datasheet>
+      <fields>
+        <field name="Description">Digital Potentiometer 128 Step 5kOhm</field>
+        <field name="DigiKey">MCP4642-502E/UN-ND</field>
+        <field name="Height">1.1</field>
+        <field name="Manufacturer_Name">Microchip</field>
+        <field name="Manufacturer_Part_Number">MCP4642-502E/UN</field>
+        <field name="Mouser Part Number">579-MCP4642-502E/UN</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Microchip-Technology/MCP4642-502E-UN?qs=hH%252BOa0VZEiAi2hFzjI6RvQ%3D%3D</field>
+      </fields>
+      <libsource lib="MCP4642-502E_UN" part="MCP4642-502E_UN" description="Digital Potentiometer 128 Step 5kOhm"/>
+      <property name="Description" value="Digital Potentiometer 128 Step 5kOhm"/>
+      <property name="Height" value="1.1"/>
+      <property name="Manufacturer_Name" value="Microchip"/>
+      <property name="Manufacturer_Part_Number" value="MCP4642-502E/UN"/>
+      <property name="Mouser Part Number" value="579-MCP4642-502E/UN"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Microchip-Technology/MCP4642-502E-UN?qs=hH%252BOa0VZEiAi2hFzjI6RvQ%3D%3D"/>
+      <property name="Arrow Part Number" value=""/>
+      <property name="Arrow Price/Stock" value=""/>
+      <property name="DigiKey" value="MCP4642-502E/UN-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iGEM.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e027f370-aae5-49a8-9c7c-eaead05083e6</tstamps>
+    </comp>
+    <comp ref="IC3">
+      <value>SN74LVC2G08IDCTRQ1</value>
+      <footprint>Package_SO:MSOP-8_3x3mm_P0.65mm</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/sn74lvc2g08-q1.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">SN74LVC2G08IDCTRQ1</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/sn74lvc2g08idctrq1/texas-instruments?region=nac</field>
+        <field name="Description">Automotive Catalog Dual 2-Input Positive-AND Gate</field>
+        <field name="DigiKey">296-36980-1-ND</field>
+        <field name="Height">1.3</field>
+        <field name="Manufacturer_Name">Texas Instruments</field>
+        <field name="Manufacturer_Part_Number">SN74LVC2G08IDCTRQ1</field>
+        <field name="Mouser Part Number">595-SN74LVC2G08IDCQ1</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Texas-Instruments/SN74LVC2G08IDCTRQ1?qs=PVVDbbWpW3KSdFyXJoRnqw%3D%3D</field>
+      </fields>
+      <libsource lib="SN74LVC2G08IDCTRQ1" part="SN74LVC2G08IDCTRQ1" description="Automotive Catalog Dual 2-Input Positive-AND Gate"/>
+      <property name="Description" value="Automotive Catalog Dual 2-Input Positive-AND Gate"/>
+      <property name="Height" value="1.3"/>
+      <property name="Manufacturer_Name" value="Texas Instruments"/>
+      <property name="Manufacturer_Part_Number" value="SN74LVC2G08IDCTRQ1"/>
+      <property name="Mouser Part Number" value="595-SN74LVC2G08IDCQ1"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Texas-Instruments/SN74LVC2G08IDCTRQ1?qs=PVVDbbWpW3KSdFyXJoRnqw%3D%3D"/>
+      <property name="Arrow Part Number" value="SN74LVC2G08IDCTRQ1"/>
+      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/sn74lvc2g08idctrq1/texas-instruments?region=nac"/>
+      <property name="DigiKey" value="296-36980-1-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iGEM.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9b33247b-9029-405f-8d78-5754c70338ff</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>COIL</value>
+      <footprint>TerminalBlock:TerminalBlock_bornier-2_P5.08mm</footprint>
+      <fields>
+        <field name="DigiKey">102-6218-ND</field>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="DigiKey" value="102-6218-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iGEM.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f4f36c06-fce2-42e8-b0d4-bea13e5e6a1e</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>Conn_01x02</value>
+      <footprint>8PCV-02-006:8PCV02006</footprint>
+      <fields>
+        <field name="DigiKey">A98460-ND</field>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="DigiKey" value="A98460-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iGEM.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>94e3c443-cf02-4ee5-8373-afa9a1a12132</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>Conn_01x03</value>
+      <footprint>Connector_JST:JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical</footprint>
+      <fields>
+        <field name="DigiKey">455-2231-ND</field>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_01x03" description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="DigiKey" value="455-2231-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iGEM.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c0df6d10-baa8-43f2-8eaf-37632beb3c98</tstamps>
+    </comp>
+    <comp ref="M1">
+      <value>Fan</value>
+      <footprint>Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical</footprint>
+      <fields>
+        <field name="DigiKey">455-2879-ND</field>
+      </fields>
+      <libsource lib="Motor" part="Fan" description="Fan"/>
+      <property name="DigiKey" value="455-2879-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iGEM.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d65d8be2-cc90-4c64-af7a-fe7ceb3f9386</tstamps>
+    </comp>
+    <comp ref="Q1">
+      <value>TIP122</value>
+      <footprint>Package_TO_SOT_THT:TO-220-3_Horizontal_TabDown</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/TIP120-D.PDF</datasheet>
+      <fields>
+        <field name="DigiKey">TIP122GOS-ND</field>
+      </fields>
+      <libsource lib="Transistor_BJT" part="TIP122" description="5A Ic, 100V Vce, Silicon Darlington Power NPN Transistor, TO-220"/>
+      <property name="DigiKey" value="TIP122GOS-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iGEM.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4b59aaf5-2612-4b64-b615-ddf78dad43ca</tstamps>
+    </comp>
+    <comp ref="Q2">
+      <value>IPD042P03L3GATMA1</value>
+      <footprint>Package_TO_SOT_SMD:TO-252-2</footprint>
+      <datasheet>https://www.infineon.com/dgdl/Infineon-IPD042P03L3_G-DS-v02_02-en.pdf?fileId=db3a30431d8a6b3c011d90c8c6e60425</datasheet>
+      <fields>
+        <field name="DigiKey">IPD042P03L3GATMA1CT-ND</field>
+      </fields>
+      <libsource lib="Device" part="Q_PMOS_GDS" description="P-MOSFET transistor, gate/drain/source"/>
+      <property name="DigiKey" value="IPD042P03L3GATMA1CT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iGEM.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f8bb0d9a-e5ac-4c1f-87fb-a3fb9a596c98</tstamps>
+    </comp>
+    <comp ref="Q3">
+      <value>IRL1404ZSTRLPBF</value>
+      <footprint>Package_TO_SOT_SMD:TO-263-2</footprint>
+      <fields>
+        <field name="DigiKey">IRL1404ZSTRLPBFCT-ND</field>
+      </fields>
+      <libsource lib="Device" part="Q_NMOS_GDS" description="N-MOSFET transistor, gate/drain/source"/>
+      <property name="DigiKey" value="IRL1404ZSTRLPBFCT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iGEM.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e690d0e5-ad6b-4553-a14e-5e76214e0376</tstamps>
+    </comp>
+    <comp ref="Q4">
+      <value>D44VH</value>
+      <footprint>Package_TO_SOT_THT:TO-220-3_Vertical</footprint>
+      <fields>
+        <field name="DigiKey">D44VH10GOS-ND</field>
+      </fields>
+      <libsource lib="Device" part="Q_NPN_BCE" description="NPN transistor, base/collector/emitter"/>
+      <property name="DigiKey" value="D44VH10GOS-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iGEM.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>745b800d-d4c5-4f2f-9468-50e0b762deb9</tstamps>
+    </comp>
+    <comp ref="Q5">
+      <value>IPD042P03L3GATMA1</value>
+      <footprint>Package_TO_SOT_SMD:TO-252-2</footprint>
+      <datasheet>https://www.infineon.com/dgdl/Infineon-IPD042P03L3_G-DS-v02_02-en.pdf?fileId=db3a30431d8a6b3c011d90c8c6e60425</datasheet>
+      <fields>
+        <field name="DigiKey">IPD042P03L3GATMA1CT-ND</field>
+      </fields>
+      <libsource lib="Device" part="Q_PMOS_GDS" description="P-MOSFET transistor, gate/drain/source"/>
+      <property name="DigiKey" value="IPD042P03L3GATMA1CT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iGEM.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7570593f-e69a-4d23-a811-8aa9a0aa0b9d</tstamps>
+    </comp>
+    <comp ref="Q6">
+      <value>TIP122</value>
+      <footprint>Package_TO_SOT_THT:TO-220-3_Horizontal_TabDown</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/TIP120-D.PDF</datasheet>
+      <fields>
+        <field name="DigiKey">TIP122GOS-ND</field>
+      </fields>
+      <libsource lib="Transistor_BJT" part="TIP122" description="5A Ic, 100V Vce, Silicon Darlington Power NPN Transistor, TO-220"/>
+      <property name="DigiKey" value="TIP122GOS-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iGEM.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>94b8931b-1a18-46c9-a522-d5b95f3e23d9</tstamps>
+    </comp>
+    <comp ref="Q7">
+      <value>D44VH</value>
+      <footprint>Package_TO_SOT_THT:TO-220-3_Vertical</footprint>
+      <fields>
+        <field name="DigiKey">D44VH10GOS-ND</field>
+      </fields>
+      <libsource lib="Device" part="Q_NPN_BCE" description="NPN transistor, base/collector/emitter"/>
+      <property name="DigiKey" value="D44VH10GOS-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iGEM.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ba4cc950-79f1-4cdf-8f3e-2b38f0e15fde</tstamps>
+    </comp>
+    <comp ref="Q8">
+      <value>IRL1404ZSTRLPBF</value>
+      <footprint>Package_TO_SOT_SMD:TO-263-2</footprint>
+      <fields>
+        <field name="DigiKey">IRL1404ZSTRLPBFCT-ND</field>
+      </fields>
+      <libsource lib="Device" part="Q_NMOS_GDS" description="N-MOSFET transistor, gate/drain/source"/>
+      <property name="DigiKey" value="IRL1404ZSTRLPBFCT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iGEM.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>eb3debce-8c82-44ae-8a89-926528e1d3c9</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>1K Ohm</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="DigiKey">CHP0805-FX-1001ELFCT-ND</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="DigiKey" value="CHP0805-FX-1001ELFCT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iGEM.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9dbd19f4-6a66-4910-871d-92295a4321e7</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>220 mOhm</value>
+      <footprint>TerminalBlock:TerminalBlock_bornier-2_P5.08mm</footprint>
+      <datasheet>https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&amp;DocNm=1773035&amp;DocType=DS&amp;DocLang=English</datasheet>
+      <fields>
+        <field name="DigiKey">A102180-ND</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="DigiKey" value="A102180-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iGEM.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>806ac24a-1f45-4a41-9548-8a0f9144a17d</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>1K Ohm</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="DigiKey">CHP0805-FX-1001ELFCT-ND</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="DigiKey" value="CHP0805-FX-1001ELFCT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iGEM.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e621144d-f4f0-4ed0-afcb-e43069706fe3</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>10K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="DigiKey">RMCF0805FT10K0CT-ND</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="DigiKey" value="RMCF0805FT10K0CT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iGEM.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9d80fb52-37ab-4a64-94af-5e683ab310f6</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>1K Ohm</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="DigiKey">CHP0805-FX-1001ELFCT-ND</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="DigiKey" value="CHP0805-FX-1001ELFCT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iGEM.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f3444967-9051-486d-8a5b-5b4b5689784a</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>220 mOhm</value>
+      <footprint>TerminalBlock:TerminalBlock_bornier-2_P5.08mm</footprint>
+      <datasheet>https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&amp;DocNm=1773035&amp;DocType=DS&amp;DocLang=English</datasheet>
+      <fields>
+        <field name="DigiKey">A102180-ND</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="DigiKey" value="A102180-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iGEM.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ddd7d0f4-64a2-4708-b998-890998ffd737</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>1K Ohm</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="DigiKey">CHP0805-FX-1001ELFCT-ND</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="DigiKey" value="CHP0805-FX-1001ELFCT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iGEM.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>07b8bf4c-85b3-475a-8f22-2e7c15f7d14c</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>4.7K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="DigiKey">RMCF0805FT4K70CT-ND</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="DigiKey" value="RMCF0805FT4K70CT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iGEM.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1077e872-3c2a-4d54-b8f8-6275676956e2</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>4.7K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="DigiKey">RMCF0805FT4K70CT-ND</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="DigiKey" value="RMCF0805FT4K70CT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iGEM.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3f4af9bf-6e51-4fa2-939e-94b56f8a6a0c</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>ADC101C021CIMK</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23-6</footprint>
+      <datasheet>https://www.ti.com/lit/ds/symlink/adc101c021.pdf</datasheet>
+      <fields>
+        <field name="DigiKey">ADC101C021CIMK/NOPBCT-ND</field>
+      </fields>
+      <libsource lib="Analog_ADC" part="ADC101C021CIMK" description="10-bit I2C ADC, SOT-23"/>
+      <property name="DigiKey" value="ADC101C021CIMK/NOPBCT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iGEM.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>69a61c1d-1543-4184-a789-f583b0735f7e</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>ATtiny412-SS</value>
+      <footprint>Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</footprint>
+      <datasheet>http://ww1.microchip.com/downloads/en/DeviceDoc/40001911A.pdf</datasheet>
+      <fields>
+        <field name="DigiKey">ATTINY412-SSN-ND</field>
+      </fields>
+      <libsource lib="MCU_Microchip_ATtiny" part="ATtiny412-SS" description="20MHz, 4kB Flash, 256B SRAM, 128B EEPROM, SOIC-8"/>
+      <property name="DigiKey" value="ATTINY412-SSN-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iGEM.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b6279d4b-fdbb-4c7e-ac2e-fefb6fcc3a0c</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>SN74LVC1G04DBVR</value>
+      <footprint>digikey-footprints:SOT-753</footprint>
+      <datasheet>http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&amp;gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn74lvc1g04</datasheet>
+      <fields>
+        <field name="Category">Integrated Circuits (ICs)</field>
+        <field name="DK_Datasheet_Link">http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&amp;gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn74lvc1g04</field>
+        <field name="DK_Detail_Page">/product-detail/en/texas-instruments/SN74LVC1G04DBVR/296-11599-1-ND/385738</field>
+        <field name="Description">IC INVERTER 1CH 1-INP SOT23-5</field>
+        <field name="Digi-Key_PN">296-11599-1-ND</field>
+        <field name="DigiKey">296-11599-1-ND</field>
+        <field name="Family">Logic - Gates and Inverters</field>
+        <field name="MPN">SN74LVC1G04DBVR</field>
+        <field name="Manufacturer">Texas Instruments</field>
+        <field name="Status">Active</field>
+      </fields>
+      <libsource lib="dk_Logic-Gates-and-Inverters" part="SN74LVC1G04DBVR" description="IC INVERTER 1CH 1-INP SOT23-5"/>
+      <property name="Digi-Key_PN" value="296-11599-1-ND"/>
+      <property name="MPN" value="SN74LVC1G04DBVR"/>
+      <property name="Category" value="Integrated Circuits (ICs)"/>
+      <property name="Family" value="Logic - Gates and Inverters"/>
+      <property name="DK_Datasheet_Link" value="http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&amp;gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn74lvc1g04"/>
+      <property name="DK_Detail_Page" value="/product-detail/en/texas-instruments/SN74LVC1G04DBVR/296-11599-1-ND/385738"/>
+      <property name="Description" value="IC INVERTER 1CH 1-INP SOT23-5"/>
+      <property name="Manufacturer" value="Texas Instruments"/>
+      <property name="Status" value="Active"/>
+      <property name="DigiKey" value="296-11599-1-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iGEM.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>442ff93f-d00d-4501-a58f-7a2cb29d339c</tstamps>
+    </comp>
+    <comp ref="U4">
+      <value>FAN3268TMX</value>
+      <footprint>Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</footprint>
+      <datasheet>https://www.onsemi.com/pdf/datasheet/fan3268-d.pdf</datasheet>
+      <fields>
+        <field name="DigiKey">FAN3268TMXCT-ND</field>
+      </fields>
+      <libsource lib="Driver_FET" part="FAN3268" description="Low-Voltage 18V PMOS-NMOS Bridge Driver, SOIC-8"/>
+      <property name="DigiKey" value="FAN3268TMXCT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iGEM.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5e80a41d-0519-4ffe-a7ac-0d502be46f95</tstamps>
+    </comp>
+    <comp ref="U5">
+      <value>FAN3268TMX</value>
+      <footprint>Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</footprint>
+      <datasheet>https://www.onsemi.com/pdf/datasheet/fan3268-d.pdf</datasheet>
+      <fields>
+        <field name="DigiKey">FAN3268TMXCT-ND</field>
+      </fields>
+      <libsource lib="Driver_FET" part="FAN3268" description="Low-Voltage 18V PMOS-NMOS Bridge Driver, SOIC-8"/>
+      <property name="DigiKey" value="FAN3268TMXCT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iGEM.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4efbf5f8-1c62-4a80-8602-c6ca4df2df31</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Analog_ADC" part="ADC101C021CIMK">
+      <description>10-bit I2C ADC, SOT-23</description>
+      <docs>https://www.ti.com/lit/ds/symlink/adc101c021.pdf</docs>
+      <footprints>
+        <fp>SOT?23*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">ADC101C021CIMK</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23-6</field>
+        <field name="Datasheet">https://www.ti.com/lit/ds/symlink/adc101c021.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="V_{A}" type="power_in"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="V_{IN}" type="input"/>
+        <pin num="4" name="ADDR" type="input"/>
+        <pin num="5" name="SCL" type="input"/>
+        <pin num="6" name="SDA" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x02">
+      <description>Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x02</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x03">
+      <description>Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x03</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_02x03_Odd_Even">
+      <description>Generic connector, double row, 02x03, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_2x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_02x03_Odd_Even</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Polarized">
+      <description>Polarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>CP_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Polarized</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="D_Schottky">
+      <description>Schottky diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D_Schottky</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Fuse">
+      <description>Fuse</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>*Fuse*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">F</field>
+        <field name="Value">Fuse</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="LED">
+      <description>Light emitting diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Q_NMOS_GDS">
+      <description>N-MOSFET transistor, gate/drain/source</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">Q_NMOS_GDS</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="G" type="input"/>
+        <pin num="2" name="D" type="passive"/>
+        <pin num="3" name="S" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Q_NPN_BCE">
+      <description>NPN transistor, base/collector/emitter</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">Q_NPN_BCE</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="B" type="input"/>
+        <pin num="2" name="C" type="passive"/>
+        <pin num="3" name="E" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Q_PMOS_GDS">
+      <description>P-MOSFET transistor, gate/drain/source</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">Q_PMOS_GDS</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="G" type="input"/>
+        <pin num="2" name="D" type="passive"/>
+        <pin num="3" name="S" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Diode" part="1N47xxA">
+      <description>1300mW Silicon planar power Zener diodes, DO-41</description>
+      <docs>https://www.vishay.com/docs/85816/1n4728a.pdf</docs>
+      <footprints>
+        <fp>D*DO?41*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">1N47xxA</field>
+        <field name="Footprint">Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal</field>
+        <field name="Datasheet">https://www.vishay.com/docs/85816/1n4728a.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Driver_FET" part="FAN3268">
+      <description>Low-Voltage 18V PMOS-NMOS Bridge Driver, SOIC-8</description>
+      <docs>http://www.onsemi.com/pub/Collateral/FAN3268T_F085-D.PDF</docs>
+      <footprints>
+        <fp>*SOIC*3.9x4.9mm*P1.27mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">FAN3268</field>
+        <field name="Footprint">Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</field>
+        <field name="Datasheet">http://www.onsemi.com/pub/Collateral/FAN3268T_F085-D.PDF</field>
+      </fields>
+      <pins>
+        <pin num="1" name="ENA" type="input"/>
+        <pin num="2" name="INA" type="input"/>
+        <pin num="3" name="GND" type="power_in"/>
+        <pin num="4" name="INB" type="input"/>
+        <pin num="5" name="~{OUTB}" type="output"/>
+        <pin num="6" name="VDD" type="power_in"/>
+        <pin num="7" name="OUTA" type="output"/>
+        <pin num="8" name="ENB" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="MCP4642-502E_UN" part="MCP4642-502E_UN">
+      <description>Digital Potentiometer 128 Step 5kOhm</description>
+      <docs>http://ww1.microchip.com/downloads/en/DeviceDoc/22107B.pdf</docs>
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">MCP4642-502E_UN</field>
+        <field name="Footprint">SOP50P490X110-10N</field>
+        <field name="Datasheet">http://ww1.microchip.com/downloads/en/DeviceDoc/22107B.pdf</field>
+        <field name="Description">Digital Potentiometer 128 Step 5kOhm</field>
+        <field name="Height">1.1</field>
+        <field name="Manufacturer_Name">Microchip</field>
+        <field name="Manufacturer_Part_Number">MCP4642-502E/UN</field>
+        <field name="Mouser Part Number">579-MCP4642-502E/UN</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Microchip-Technology/MCP4642-502E-UN?qs=hH%252BOa0VZEiAi2hFzjI6RvQ%3D%3D</field>
+      </fields>
+      <pins>
+        <pin num="1" name="HVC/A0" type="passive"/>
+        <pin num="2" name="SCL" type="passive"/>
+        <pin num="3" name="SDA" type="passive"/>
+        <pin num="4" name="VSS" type="power_in"/>
+        <pin num="5" name="P1B" type="passive"/>
+        <pin num="6" name="P1W" type="passive"/>
+        <pin num="7" name="P0W" type="passive"/>
+        <pin num="8" name="P0B" type="passive"/>
+        <pin num="9" name="A1" type="passive"/>
+        <pin num="10" name="VDD" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="MCU_Microchip_ATtiny" part="ATtiny412-SS">
+      <description>20MHz, 4kB Flash, 256B SRAM, 128B EEPROM, SOIC-8</description>
+      <docs>http://ww1.microchip.com/downloads/en/DeviceDoc/40001911A.pdf</docs>
+      <footprints>
+        <fp>SOIC*3.9x4.9mm*P1.27mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">ATtiny412-SS</field>
+        <field name="Footprint">Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</field>
+        <field name="Datasheet">http://ww1.microchip.com/downloads/en/DeviceDoc/40001911A.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VCC" type="power_in"/>
+        <pin num="2" name="PA6" type="bidirectional"/>
+        <pin num="3" name="PA7" type="bidirectional"/>
+        <pin num="4" name="PA1" type="bidirectional"/>
+        <pin num="5" name="PA2" type="bidirectional"/>
+        <pin num="6" name="~{RESET}/PA0" type="bidirectional"/>
+        <pin num="7" name="PA3" type="bidirectional"/>
+        <pin num="8" name="GND" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Mechanical" part="Heatsink_Pad">
+      <description>Heatsink with electrical connection, 1 pin</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Heatsink_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">HS</field>
+        <field name="Value">Heatsink_Pad</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Mechanical" part="MountingHole_Pad">
+      <description>Mounting Hole with connection</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>MountingHole*Pad*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MountingHole_Pad</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="Motor" part="Fan">
+      <description>Fan</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>PinHeader*P2.54mm*</fp>
+        <fp>TerminalBlock*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">M</field>
+        <field name="Value">Fan</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="+" type="passive"/>
+        <pin num="2" name="-" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SN74LVC2G08IDCTRQ1" part="SN74LVC2G08IDCTRQ1">
+      <description>Automotive Catalog Dual 2-Input Positive-AND Gate</description>
+      <docs>http://www.ti.com/lit/ds/symlink/sn74lvc2g08-q1.pdf</docs>
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">SN74LVC2G08IDCTRQ1</field>
+        <field name="Footprint">SOP65P400X130-8N</field>
+        <field name="Datasheet">http://www.ti.com/lit/ds/symlink/sn74lvc2g08-q1.pdf</field>
+        <field name="Description">Automotive Catalog Dual 2-Input Positive-AND Gate</field>
+        <field name="Height">1.3</field>
+        <field name="Manufacturer_Name">Texas Instruments</field>
+        <field name="Manufacturer_Part_Number">SN74LVC2G08IDCTRQ1</field>
+        <field name="Mouser Part Number">595-SN74LVC2G08IDCQ1</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Texas-Instruments/SN74LVC2G08IDCTRQ1?qs=PVVDbbWpW3KSdFyXJoRnqw%3D%3D</field>
+        <field name="Arrow Part Number">SN74LVC2G08IDCTRQ1</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/sn74lvc2g08idctrq1/texas-instruments?region=nac</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1A" type="passive"/>
+        <pin num="2" name="1B" type="passive"/>
+        <pin num="3" name="2Y" type="passive"/>
+        <pin num="4" name="GND" type="passive"/>
+        <pin num="5" name="2A" type="passive"/>
+        <pin num="6" name="2B" type="passive"/>
+        <pin num="7" name="1Y" type="passive"/>
+        <pin num="8" name="VCC" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="TMCS1107A1BQDRQ1" part="TMCS1107A1BQDRQ1">
+      <description>Board Mount Current Sensors AEC-Q100, +/-420-V isolated Hall-effect current sensor with internal reference 8-SOIC -40 to 125</description>
+      <docs>https://www.ti.com/lit/ds/symlink/tmcs1107-q1.pdf?ts=1634009705469&amp;ref_url=https%253A%252F%252Fwww.ti.com%252Fsitesearch%252Fdocs%252Funiversalsearch.tsp%253FlangPref%253Den-US%2526searchTerm%253DTMCS1107A4UQDRQ1%2526nr%253D2</docs>
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">TMCS1107A1BQDRQ1</field>
+        <field name="Footprint">SOIC127P600X175-8N</field>
+        <field name="Datasheet">https://www.ti.com/lit/ds/symlink/tmcs1107-q1.pdf?ts=1634009705469&amp;ref_url=https%253A%252F%252Fwww.ti.com%252Fsitesearch%252Fdocs%252Funiversalsearch.tsp%253FlangPref%253Den-US%2526searchTerm%253DTMCS1107A4UQDRQ1%2526nr%253D2</field>
+        <field name="Description">Board Mount Current Sensors AEC-Q100, +/-420-V isolated Hall-effect current sensor with internal reference 8-SOIC -40 to 125</field>
+        <field name="Height">1.75</field>
+        <field name="Manufacturer_Name">Texas Instruments</field>
+        <field name="Manufacturer_Part_Number">TMCS1107A1BQDRQ1</field>
+      </fields>
+      <pins>
+        <pin num="1" name="IN+_1" type="passive"/>
+        <pin num="2" name="IN+_2" type="passive"/>
+        <pin num="3" name="IN-_1" type="passive"/>
+        <pin num="4" name="IN-_2" type="passive"/>
+        <pin num="5" name="GND" type="passive"/>
+        <pin num="6" name="NC" type="no_connect"/>
+        <pin num="7" name="VOUT" type="passive"/>
+        <pin num="8" name="VS" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Transistor_BJT" part="TIP122">
+      <description>5A Ic, 100V Vce, Silicon Darlington Power NPN Transistor, TO-220</description>
+      <docs>https://www.onsemi.com/pub/Collateral/TIP120-D.PDF</docs>
+      <footprints>
+        <fp>TO?220*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">TIP122</field>
+        <field name="Footprint">Package_TO_SOT_THT:TO-220-3_Vertical</field>
+        <field name="Datasheet">https://www.onsemi.com/pub/Collateral/TIP120-D.PDF</field>
+      </fields>
+      <pins>
+        <pin num="1" name="B" type="input"/>
+        <pin num="2" name="C" type="passive"/>
+        <pin num="3" name="E" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="dk_Logic-Gates-and-Inverters" part="SN74LVC1G04DBVR">
+      <description>IC INVERTER 1CH 1-INP SOT23-5</description>
+      <docs>http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&amp;gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn74lvc1g04</docs>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">SN74LVC1G04DBVR</field>
+        <field name="Footprint">digikey-footprints:SOT-753</field>
+        <field name="Datasheet">http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&amp;gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn74lvc1g04</field>
+        <field name="Digi-Key_PN">296-11599-1-ND</field>
+        <field name="MPN">SN74LVC1G04DBVR</field>
+        <field name="Category">Integrated Circuits (ICs)</field>
+        <field name="Family">Logic - Gates and Inverters</field>
+        <field name="DK_Datasheet_Link">http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&amp;gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn74lvc1g04</field>
+        <field name="DK_Detail_Page">/product-detail/en/texas-instruments/SN74LVC1G04DBVR/296-11599-1-ND/385738</field>
+        <field name="Description">IC INVERTER 1CH 1-INP SOT23-5</field>
+        <field name="Manufacturer">Texas Instruments</field>
+        <field name="Status">Active</field>
+      </fields>
+      <pins>
+        <pin num="1" name="NC" type="no_connect"/>
+        <pin num="2" name="A" type="input"/>
+        <pin num="3" name="GND" type="power_in"/>
+        <pin num="4" name="Y" type="output"/>
+        <pin num="5" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Analog_ADC">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Analog_ADC.kicad_sym</uri>
+    </library>
+    <library logical="Connector_Generic">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Connector_Generic.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Device.kicad_sym</uri>
+    </library>
+    <library logical="Diode">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Diode.kicad_sym</uri>
+    </library>
+    <library logical="Driver_FET">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Driver_FET.kicad_sym</uri>
+    </library>
+    <library logical="MCP4642-502E_UN">
+      <uri>/Users/sreenieadara/Documents/iGEM/Custom/MCP4642-502E_UN/MCP4642-502E_UN.lib</uri>
+    </library>
+    <library logical="MCU_Microchip_ATtiny">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//MCU_Microchip_ATtiny.kicad_sym</uri>
+    </library>
+    <library logical="Mechanical">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Mechanical.kicad_sym</uri>
+    </library>
+    <library logical="Motor">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Motor.kicad_sym</uri>
+    </library>
+    <library logical="SN74LVC2G08IDCTRQ1">
+      <uri>/Users/sreenieadara/Documents/iGEM/Custom/SN74LVC2G08IDCTRQ1/SN74LVC2G08IDCTRQ1.lib</uri>
+    </library>
+    <library logical="TMCS1107A1BQDRQ1">
+      <uri>/Users/sreenieadara/Documents/iGEM/Custom/TMCS1107A1BQDRQ1/TMCS1107A1BQDRQ1.lib</uri>
+    </library>
+    <library logical="Transistor_BJT">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Transistor_BJT.kicad_sym</uri>
+    </library>
+    <library logical="dk_Logic-Gates-and-Inverters">
+      <uri>/Users/sreenieadara/Documents/digikey-kicad-library/digikey-symbols/dk_Logic-Gates-and-Inverters.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+5V">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="D3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D4" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="F1" pin="2" pintype="passive"/>
+      <node ref="IC1" pin="8" pinfunction="VS" pintype="passive"/>
+      <node ref="IC2" pin="10" pinfunction="VDD" pintype="power_in"/>
+      <node ref="IC3" pin="8" pinfunction="VCC" pintype="passive"/>
+      <node ref="M1" pin="1" pinfunction="+" pintype="passive"/>
+      <node ref="Q1" pin="2" pinfunction="C" pintype="passive"/>
+      <node ref="Q2" pin="3" pinfunction="S" pintype="passive"/>
+      <node ref="Q5" pin="3" pinfunction="S" pintype="passive"/>
+      <node ref="Q6" pin="2" pinfunction="C" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="R10" pin="1" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="V_{A}" pintype="power_in"/>
+      <node ref="U2" pin="1" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U3" pin="5" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U4" pin="6" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U5" pin="6" pinfunction="VDD" pintype="power_in"/>
+    </net>
+    <net code="2" name="DIR1">
+      <node ref="IC3" pin="7" pinfunction="1Y" pintype="passive"/>
+      <node ref="U4" pin="2" pinfunction="INA" pintype="input"/>
+      <node ref="U5" pin="4" pinfunction="INB" pintype="input"/>
+    </net>
+    <net code="3" name="DIR2">
+      <node ref="IC3" pin="3" pinfunction="2Y" pintype="passive"/>
+      <node ref="U4" pin="4" pinfunction="INB" pintype="input"/>
+      <node ref="U5" pin="2" pinfunction="INA" pintype="input"/>
+    </net>
+    <net code="4" name="ENABLE">
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="U2" pin="2" pinfunction="PA6" pintype="bidirectional"/>
+      <node ref="U4" pin="1" pinfunction="ENA" pintype="input"/>
+      <node ref="U4" pin="8" pinfunction="ENB" pintype="input"/>
+      <node ref="U5" pin="1" pinfunction="ENA" pintype="input"/>
+      <node ref="U5" pin="8" pinfunction="ENB" pintype="input"/>
+    </net>
+    <net code="5" name="FET1">
+      <node ref="Q2" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="U4" pin="7" pinfunction="OUTA" pintype="output"/>
+    </net>
+    <net code="6" name="FET2">
+      <node ref="Q5" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="U5" pin="5" pinfunction="~{OUTB}" pintype="output"/>
+    </net>
+    <net code="7" name="FET3">
+      <node ref="Q3" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="U4" pin="5" pinfunction="~{OUTB}" pintype="output"/>
+    </net>
+    <net code="8" name="FET4">
+      <node ref="Q8" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="U5" pin="7" pinfunction="OUTA" pintype="output"/>
+    </net>
+    <net code="9" name="GND">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D5" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D6" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D7" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D8" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="IC1" pin="5" pinfunction="GND" pintype="passive"/>
+      <node ref="IC2" pin="4" pinfunction="VSS" pintype="power_in"/>
+      <node ref="IC2" pin="9" pinfunction="A1" pintype="passive"/>
+      <node ref="IC3" pin="4" pinfunction="GND" pintype="passive"/>
+      <node ref="J3" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J4" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="M1" pin="2" pinfunction="-" pintype="passive"/>
+      <node ref="Q3" pin="3" pinfunction="S" pintype="passive"/>
+      <node ref="Q8" pin="3" pinfunction="S" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U2" pin="8" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="3" pinfunction="GND" pintype="power_in"/>
+      <node ref="U4" pin="3" pinfunction="GND" pintype="power_in"/>
+      <node ref="U5" pin="3" pinfunction="GND" pintype="power_in"/>
+    </net>
+    <net code="10" name="Net-(D2-Pad1)">
+      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Q3" pin="2" pinfunction="D" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+    </net>
+    <net code="11" name="Net-(D3-Pad2)">
+      <node ref="D3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="HS1" pin="1" pintype="passive"/>
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="Q2" pin="2" pinfunction="D" pintype="passive"/>
+      <node ref="Q4" pin="2" pinfunction="C" pintype="passive"/>
+    </net>
+    <net code="12" name="Net-(D4-Pad2)">
+      <node ref="D4" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="HS2" pin="1" pintype="passive"/>
+      <node ref="IC1" pin="3" pinfunction="IN-_1" pintype="passive"/>
+      <node ref="IC1" pin="4" pinfunction="IN-_2" pintype="passive"/>
+      <node ref="Q5" pin="2" pinfunction="D" pintype="passive"/>
+      <node ref="Q7" pin="2" pinfunction="C" pintype="passive"/>
+    </net>
+    <net code="13" name="Net-(D5-Pad1)">
+      <node ref="D5" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Q8" pin="2" pinfunction="D" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+    </net>
+    <net code="14" name="Net-(D6-Pad1)">
+      <node ref="D6" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+    </net>
+    <net code="15" name="Net-(D8-Pad1)">
+      <node ref="D8" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+    </net>
+    <net code="16" name="Net-(F1-Pad1)">
+      <node ref="F1" pin="1" pintype="passive"/>
+      <node ref="J3" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="17" name="Net-(IC1-Pad1)">
+      <node ref="IC1" pin="1" pinfunction="IN+_1" pintype="passive"/>
+      <node ref="IC1" pin="2" pinfunction="IN+_2" pintype="passive"/>
+      <node ref="J1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+    </net>
+    <net code="18" name="Net-(IC1-Pad7)">
+      <node ref="IC1" pin="7" pinfunction="VOUT" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="V_{IN}" pintype="input"/>
+    </net>
+    <net code="19" name="Net-(IC2-Pad1)">
+      <node ref="IC2" pin="1" pinfunction="HVC/A0" pintype="passive"/>
+    </net>
+    <net code="20" name="Net-(IC3-Pad2)">
+      <node ref="IC3" pin="2" pinfunction="1B" pintype="passive"/>
+      <node ref="U3" pin="4" pinfunction="Y" pintype="output"/>
+    </net>
+    <net code="21" name="Net-(J2-Pad2)">
+      <node ref="U1" pin="4" pinfunction="ADDR" pintype="input"/>
+    </net>
+    <net code="22" name="Net-(Q1-Pad3)">
+      <node ref="Q1" pin="3" pinfunction="E" pintype="passive"/>
+      <node ref="Q4" pin="1" pinfunction="B" pintype="input"/>
+    </net>
+    <net code="23" name="Net-(Q4-Pad3)">
+      <node ref="Q4" pin="3" pinfunction="E" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+    </net>
+    <net code="24" name="Net-(Q6-Pad3)">
+      <node ref="Q6" pin="3" pinfunction="E" pintype="passive"/>
+      <node ref="Q7" pin="1" pinfunction="B" pintype="input"/>
+    </net>
+    <net code="25" name="Net-(Q7-Pad3)">
+      <node ref="Q7" pin="3" pinfunction="E" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+    </net>
+    <net code="26" name="PWM1">
+      <node ref="IC3" pin="1" pinfunction="1A" pintype="passive"/>
+      <node ref="IC3" pin="5" pinfunction="2A" pintype="passive"/>
+      <node ref="U2" pin="3" pinfunction="PA7" pintype="bidirectional"/>
+    </net>
+    <net code="27" name="PWM2">
+      <node ref="IC3" pin="6" pinfunction="2B" pintype="passive"/>
+      <node ref="U2" pin="5" pinfunction="PA2" pintype="bidirectional"/>
+      <node ref="U3" pin="2" pinfunction="A" pintype="input"/>
+    </net>
+    <net code="28" name="RHEO1_IN">
+      <node ref="IC2" pin="7" pinfunction="P0W" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+    </net>
+    <net code="29" name="RHEO1_OUT">
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="IC2" pin="8" pinfunction="P0B" pintype="passive"/>
+      <node ref="Q1" pin="1" pinfunction="B" pintype="input"/>
+    </net>
+    <net code="30" name="RHEO2_IN">
+      <node ref="IC2" pin="6" pinfunction="P1W" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+    </net>
+    <net code="31" name="RHEO2_OUT">
+      <node ref="D7" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="IC2" pin="5" pinfunction="P1B" pintype="passive"/>
+      <node ref="Q6" pin="1" pinfunction="B" pintype="input"/>
+    </net>
+    <net code="32" name="SCL">
+      <node ref="IC2" pin="2" pinfunction="SCL" pintype="passive"/>
+      <node ref="J4" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="SCL" pintype="input"/>
+      <node ref="U2" pin="7" pinfunction="PA3" pintype="bidirectional"/>
+    </net>
+    <net code="33" name="SDA">
+      <node ref="IC2" pin="3" pinfunction="SDA" pintype="passive"/>
+      <node ref="J4" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R10" pin="2" pintype="passive"/>
+      <node ref="U1" pin="6" pinfunction="SDA" pintype="bidirectional"/>
+      <node ref="U2" pin="4" pinfunction="PA1" pintype="bidirectional"/>
+    </net>
+    <net code="34" name="UPDI">
+      <node ref="U2" pin="6" pinfunction="~{RESET}/PA0" pintype="bidirectional"/>
+    </net>
+    <net code="39" name="unconnected-(IC1-Pad6)">
+      <node ref="IC1" pin="6" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="43" name="unconnected-(U3-Pad1)">
+      <node ref="U3" pin="1" pinfunction="NC" pintype="no_connect"/>
+    </net>
+  </nets>
+</export>
