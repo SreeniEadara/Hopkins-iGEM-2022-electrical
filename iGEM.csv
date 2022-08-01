@@ -1,8 +1,8 @@
 "Source:","/Users/sreenieadara/Documents/iGEM/iGEM.kicad_sch"
-"Date:","Sunday, July 24, 2022 at 05:25:16 PM"
+"Date:","Monday, August 01, 2022 at 11:46:09 AM"
 "Tool:","Eeschema (6.0.6-1)-1"
 "Generator:","/Applications/KiCad/KiCad.app/Contents/SharedSupport/plugins/bom_csv_grouped_by_value.py"
-"Component Count:","50"
+"Component Count:","52"
 
 "Individual Components:"
 
@@ -16,6 +16,7 @@
 "","","C7","4.7 uF","Device:C_Polarized","Capacitor_Tantalum_SMD:CP_EIA-3528-21_Kemet-B_Pad1.50x2.35mm_HandSolder","~","","","","","","","","399-3723-1-ND","","","","","","","","",""
 "","","C8","0.1 uF","Device:C","Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder","~","","","","","","","","399-C0805C104K8RAC7800CT-ND","","","","","","","","",""
 "","","C9","10000 uF","Device:C_Polarized","Capacitor_THT:CP_Radial_D22.0mm_P10.00mm_SnapIn","~","","","","","","","","399-ELG109M025AQ4AA-ND","","","","","","","","",""
+"","","C10","0.1 uF","Device:C","Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder","~","","","","","","","","399-C0805C104K8RAC7800CT-ND","","","","","","","","",""
 "","","C11","0.1 uF","Device:C","Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder","~","","","","","","","","399-C0805C104K8RAC7800CT-ND","","","","","","","","",""
 "","","D1","1N4732A","Diode:1N47xxA","Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal","https://www.vishay.com/docs/85816/1n4728a.pdf","","","","","","","","1N4732AFSCT-ND","","","","","","","","",""
 "","","D2","SB2060","Device:D_Schottky","Diode_THT:D_DO-201AD_P12.70mm_Horizontal","~","","","","","","","","1655-SB2060CT-ND","","","","","","","","",""
@@ -57,13 +58,14 @@
 "","","U3","SN74LVC1G04DBVR","dk_Logic-Gates-and-Inverters:SN74LVC1G04DBVR","digikey-footprints:SOT-753","http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn74lvc1g04","","","Integrated Circuits (ICs)","http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn74lvc1g04","/product-detail/en/texas-instruments/SN74LVC1G04DBVR/296-11599-1-ND/385738","IC INVERTER 1CH 1-INP SOT23-5","296-11599-1-ND","296-11599-1-ND","Logic - Gates and Inverters","","SN74LVC1G04DBVR","Texas Instruments","","","","","Active"
 "","","U4","FAN3268TMX","Driver_FET:FAN3268","Package_SO:SOIC-8_3.9x4.9mm_P1.27mm","https://www.onsemi.com/pdf/datasheet/fan3268-d.pdf","","","","","","","","FAN3268TMXCT-ND","","","","","","","","",""
 "","","U5","FAN3268TMX","Driver_FET:FAN3268","Package_SO:SOIC-8_3.9x4.9mm_P1.27mm","https://www.onsemi.com/pdf/datasheet/fan3268-d.pdf","","","","","","","","FAN3268TMXCT-ND","","","","","","","","",""
+"","","U6","SN74LVC1G04DBVR","dk_Logic-Gates-and-Inverters:SN74LVC1G04DBVR","digikey-footprints:SOT-753","http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn74lvc1g04","","","Integrated Circuits (ICs)","http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn74lvc1g04","/product-detail/en/texas-instruments/SN74LVC1G04DBVR/296-11599-1-ND/385738","IC INVERTER 1CH 1-INP SOT23-5","296-11599-1-ND","296-11599-1-ND","Logic - Gates and Inverters","","SN74LVC1G04DBVR","Texas Instruments","","","","","Active"
 
 
 
 "Collated Components:"
 
 "Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet","Arrow Part Number","Arrow Price/Stock","Category","DK_Datasheet_Link","DK_Detail_Page","Description","Digi-Key_PN","DigiKey","Family","Height","MPN","Manufacturer","Manufacturer_Name","Manufacturer_Part_Number","Mouser Part Number","Mouser Price/Stock","Status"
-"1","8","C1, C2, C3, C4, C5, C6, C8, C11","0.1 uF","Device:C","Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder","~","","","","","","","","399-C0805C104K8RAC7800CT-ND","","","","","","","","",""
+"1","9","C1, C2, C3, C4, C5, C6, C8, C10, C11","0.1 uF","Device:C","Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder","~","","","","","","","","399-C0805C104K8RAC7800CT-ND","","","","","","","","",""
 "2","1","C7","4.7 uF","Device:C_Polarized","Capacitor_Tantalum_SMD:CP_EIA-3528-21_Kemet-B_Pad1.50x2.35mm_HandSolder","~","","","","","","","","399-3723-1-ND","","","","","","","","",""
 "3","1","C9","10000 uF","Device:C_Polarized","Capacitor_THT:CP_Radial_D22.0mm_P10.00mm_SnapIn","~","","","","","","","","399-ELG109M025AQ4AA-ND","","","","","","","","",""
 "4","2","D1, D7","1N4732A","Diode:1N47xxA","Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal","https://www.vishay.com/docs/85816/1n4728a.pdf","","","","","","","","1N4732AFSCT-ND","","","","","","","","",""
@@ -88,5 +90,5 @@
 "23","2","R9, R10","4.7K","Device:R","Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder","~","","","","","","","","RMCF0805FT4K70CT-ND","","","","","","","","",""
 "24","1","U1","ADC101C021CIMK","Analog_ADC:ADC101C021CIMK","Package_TO_SOT_SMD:SOT-23-6","https://www.ti.com/lit/ds/symlink/adc101c021.pdf","","","","","","","","ADC101C021CIMK/NOPBCT-ND","","","","","","","","",""
 "25","1","U2","ATtiny412-SS","MCU_Microchip_ATtiny:ATtiny412-SS","Package_SO:SOIC-8_3.9x4.9mm_P1.27mm","http://ww1.microchip.com/downloads/en/DeviceDoc/40001911A.pdf","","","","","","","","ATTINY412-SSN-ND","","","","","","","","",""
-"26","1","U3","SN74LVC1G04DBVR","dk_Logic-Gates-and-Inverters:SN74LVC1G04DBVR","digikey-footprints:SOT-753","http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn74lvc1g04","","","Integrated Circuits (ICs)","http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn74lvc1g04","/product-detail/en/texas-instruments/SN74LVC1G04DBVR/296-11599-1-ND/385738","IC INVERTER 1CH 1-INP SOT23-5","296-11599-1-ND","296-11599-1-ND","Logic - Gates and Inverters","","SN74LVC1G04DBVR","Texas Instruments","","","","","Active"
+"26","2","U3, U6","SN74LVC1G04DBVR","dk_Logic-Gates-and-Inverters:SN74LVC1G04DBVR","digikey-footprints:SOT-753","http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn74lvc1g04","","","Integrated Circuits (ICs)","http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn74lvc1g04","/product-detail/en/texas-instruments/SN74LVC1G04DBVR/296-11599-1-ND/385738","IC INVERTER 1CH 1-INP SOT23-5","296-11599-1-ND","296-11599-1-ND","Logic - Gates and Inverters","","SN74LVC1G04DBVR","Texas Instruments","","","","","Active"
 "27","2","U4, U5","FAN3268TMX","Driver_FET:FAN3268","Package_SO:SOIC-8_3.9x4.9mm_P1.27mm","https://www.onsemi.com/pdf/datasheet/fan3268-d.pdf","","","","","","","","FAN3268TMXCT-ND","","","","","","","","",""
