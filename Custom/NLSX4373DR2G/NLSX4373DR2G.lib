@@ -1,0 +1,31 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model NLSX4373DR2G
+#/226683/255746/2.49/8/3/Integrated Circuit
+DEF NLSX4373DR2G IC 0 30 Y Y 1 F N
+F0 "IC" 1350 300 50 H V L CNN
+F1 "NLSX4373DR2G" 1350 200 50 H V L CNN
+F2 "SOIC127P600X175-8N" 1350 100 50 H I L CNN
+F3 "http://www.onsemi.com/pub/Collateral/NLSX4373-D.PDF" 1350 0 50 H I L CNN
+F4 "2-Bit 20 Mb/s Dual-Supply Level Translator" 1350 -100 50 H I L CNN "Description"
+F5 "1.75" 1350 -200 50 H I L CNN "Height"
+F6 "onsemi" 1350 -300 50 H I L CNN "Manufacturer_Name"
+F7 "NLSX4373DR2G" 1350 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "863-NLSX4373DR2G" 1350 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/onsemi/NLSX4373DR2G?qs=zXUFZjqEZiiEfIwrZ45LUw%3D%3D" 1350 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "NLSX4373DR2G" 1350 -700 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/nlsx4373dr2g/on-semiconductor?region=nac" 1350 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X VL 1 0 0 200 R 50 50 0 0 P
+X I/O_VL1 2 0 -100 200 R 50 50 0 0 P
+X I/O_VL2 3 0 -200 200 R 50 50 0 0 P
+X GND 4 0 -300 200 R 50 50 0 0 P
+X VCC 8 1500 0 200 L 50 50 0 0 P
+X I/O_VCC1 7 1500 -100 200 L 50 50 0 0 P
+X I/O_VCC2 6 1500 -200 200 L 50 50 0 0 P
+X EN 5 1500 -300 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 1300 100 1300 -400 200 -400 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

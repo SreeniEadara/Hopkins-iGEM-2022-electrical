@@ -5,4 +5,5 @@
   (lib (name "SN74LVC1G04DCK3")(type "Legacy")(uri "${KIPRJMOD}/Custom/SN74LVC1G04DCK3/SN74LVC1G04DCK3.lib")(options "")(descr ""))
   (lib (name "MD1211")(type "KiCad")(uri "${KIPRJMOD}/Custom/MD1211.kicad_sym")(options "")(descr ""))
   (lib (name "MCP4561-502E_MS")(type "Legacy")(uri "${KIPRJMOD}/Custom/MCP4561-502E_MS/MCP4561-502E_MS.lib")(options "")(descr ""))
+  (lib (name "NLSX4373DR2G")(type "Legacy")(uri "${KIPRJMOD}/Custom/NLSX4373DR2G/NLSX4373DR2G.lib")(options "")(descr ""))
 )
