@@ -4925,10 +4925,13 @@
     (property "Value" "Conn_01x04" (id 1) (at 270.51 51.0539 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Connector_JST:JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal" (id 2) (at 267.716 48.514 0)
+    (property "Footprint" "Connector_JST:JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical" (id 2) (at 267.716 48.514 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 267.716 48.514 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "DigiKey" "455-2249-ND" (id 4) (at 267.716 48.514 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 7f0c3152-b76a-4d41-a2fd-f5b7a9b2543b))
@@ -6228,7 +6231,7 @@
       (reference "J3") (unit 1) (value "Conn_01x02") (footprint "8PCV-02-006:8PCV02006")
     )
     (path "/c114912b-506d-46cd-9190-0782b54aa74f"
-      (reference "J4") (unit 1) (value "Conn_01x04") (footprint "Connector_JST:JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal")
+      (reference "J4") (unit 1) (value "Conn_01x04") (footprint "Connector_JST:JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical")
     )
     (path "/9b2f8761-bd4e-4c91-9a1d-8ce4be0ce7a3"
       (reference "J5") (unit 1) (value "Conn_01x03") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical")
