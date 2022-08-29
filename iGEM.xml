@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/Users/sreenieadara/Documents/iGEM/iGEM.kicad_sch</source>
-    <date>Friday, August 26, 2022 at 04:20:58 PM</date>
+    <date>Friday, August 26, 2022 at 10:13:14 PM</date>
     <tool>Eeschema (6.0.7-1)-1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -505,8 +505,12 @@
     </comp>
     <comp ref="J4">
       <value>Conn_01x04</value>
-      <footprint>Connector_JST:JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal</footprint>
+      <footprint>Connector_JST:JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical</footprint>
+      <fields>
+        <field name="DigiKey">455-2249-ND</field>
+      </fields>
       <libsource lib="Connector_Generic" part="Conn_01x04" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="DigiKey" value="455-2249-ND"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="iGEM.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
